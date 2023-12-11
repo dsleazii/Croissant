@@ -12,7 +12,7 @@ h1{text-align: center;
 
 }
 
-a{
+.info{
     border: 10 30 ;
     border-style: solid;
     border-radius: 40px;
@@ -25,7 +25,7 @@ a{
     
 }
 
-a :hover{
+.info :hover{
    background-color: aqua;
     color: beige;
 cursor: pointer;
@@ -39,4 +39,15 @@ img{
   margin-right: auto;
   width: 50%;
    border-radius: 50%;
+}
+
+.email{
+    text-decoration: underline;
+     color:rgb(70, 28, 253);
+    justify-content: space-evenly;
+
+}
+
+p{
+    font-size: 20px;
 }
